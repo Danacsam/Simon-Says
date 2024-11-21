@@ -172,7 +172,7 @@ let sequence = [];
 let playerSequence = [];
 let level = 0;
 
-// Generate a random sequence of 15 steps
+// Generate a random sequence of 12 steps
 function generateSequence() {
   sequence = [];
   for (let i = 0; i < 12; i++) {
