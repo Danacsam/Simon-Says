@@ -175,7 +175,7 @@ let level = 0;
 // Generate a random sequence of 15 steps
 function generateSequence() {
   sequence = [];
-  for (let i = 0; i < 15; i++) {
+  for (let i = 0; i < 12; i++) {
     sequence.push(Math.floor(Math.random() * 6)); // Random number between 0-5
   }
 }
